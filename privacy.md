@@ -23,12 +23,11 @@ terms of the App Store and other apps that track your activity.
 The Lunofono web site (lunofono.llucax.com) doesn't collect or process personal
 data.
 
-Visits are logged by the web server. These logs contains usage data like 
-your device's
-Internet Protocol address (e.g. IP address), browser type, browser version, the
-pages of our website that you visit and the time and date of your visit. This
-data is only used for maintenance purposes and to generate anonymous access
-statistics.
+Visits are logged by the web server. These logs contains usage data like your
+device's Internet Protocol address (e.g. IP address), browser type, browser
+version, the pages of our website that you visit and the time and date of your
+visit. This data is only used for maintenance purposes and to generate
+anonymous access statistics.
 
 These logs are not kept longer than one year.
 
