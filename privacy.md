@@ -5,7 +5,7 @@ Last Updated: March 18, 2021.
 **Lunofono** is developed and maintained by Leandro Lucarella. I'm an
 independent developer/software engineer. Please note that this project is just
 a hobby, if you find anything that is wrong or you don't like, please contact
-me to privacy@lunofono and I'll be very happy to address it and fix it as
+me to <privacy@lunofono.app> and I'll be very happy to address it and fix it as
 soon as possible.
 
 
@@ -22,8 +22,8 @@ terms of the App Store and other apps that track your activity.
 
 ## Web site privacy policy
 
-The Lunofono web site (https://lunofono.app or https://lunofono.com) some data
-is collected that can be interpreted as personal data.
+The Lunofono web site (<https://lunofono.app> or <https://lunofono.com>) some
+data is collected that can be interpreted as personal data.
 
 Visits might be logged by the web server. These logs contains usage data like
 your device's Internet Protocol address (e.g. IP address), browser type,
@@ -89,11 +89,11 @@ rights. Every user is entitled to the following:
 
 If you make a request, I have one month to respond to you. If you would like
 to exercise any of these rights, please contact me at my e-mail:
-privacy@lunofono.app.
+<privacy@lunofono.app>.
 
 
 ## Contact and resposible person
 
 Responsible for data processing: Leandro Lucarella
 
-Contact: privacy@lunofono.app
+Contact: <privacy@lunofono.app>
