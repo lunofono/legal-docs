@@ -1,10 +1,12 @@
 # Privacy Policy
 
-Last Updated: October 29, 2020.
+Last Updated: March 18, 2021.
 
-Lunofono is just me, Leandro Lucarella. I'm an independent developer/software
-engineer. If you find anything that is wrong or you don't like, don't hesitate
-to contact me to luca-lunofono-privacy@llucax.com.
+**Lunofono** is developed and maintained by Leandro Lucarella. I'm an
+independent developer/software engineer. Please note that this project is just
+a hobby, if you find anything that is wrong or you don't like, please contact
+me to privacy@lunofono and I'll be very happy to address it and fix it as
+soon as possible.
 
 
 ## App privacy policy
@@ -20,13 +22,13 @@ terms of the App Store and other apps that track your activity.
 
 ## Web site privacy policy
 
-The Lunofono web site (lunofono.llucax.com) doesn't collect or process personal
-data.
+The Lunofono web site (https://lunofono.app or https://lunofono.com) some data
+is collected that can be interpreted as personal data.
 
-Visits are logged by the web server. These logs contains usage data like your
-device's Internet Protocol address (e.g. IP address), browser type, browser
-version, the pages of our website that you visit and the time and date of your
-visit. This data is only used for maintenance purposes and to generate
+Visits might be logged by the web server. These logs contains usage data like
+your device's Internet Protocol address (e.g. IP address), browser type,
+browser version, the pages of our website that you visit and the time and date
+of your visit. This data is only used for maintenance purposes and to generate
 anonymous access statistics.
 
 These logs are not kept longer than one year.
@@ -34,9 +36,9 @@ These logs are not kept longer than one year.
 
 ## Support privacy policy
 
-Support requests which are sent to my email addresses (@llucax.com) are
-securely stored in my personal e-mail server (located in Haarlem, Netherlands).
-All the data in that server is protected by state of the art encryption.  Your
+Support requests which are sent to my email addresses (@lunofono.app or
+@lunofono.com) are securely stored in my personal e-mail server.  All the
+data in that server is protected by state of the art encryption.  Your
 entire e-mails are saved, including:
 
 * name, e-mail address, date/time
@@ -46,6 +48,18 @@ entire e-mails are saved, including:
 These data will only be used to process the respective support request and will
 be kept for a maxium of one year after the support request is considered
 resolved.
+
+
+## Subprocessors
+
+We use a few external services to run our service.
+
+The **website** is hosted by **GitHub** though their **GitHub Pages** service
+([more
+info](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages)).
+
+The **e-mail** servers are hosted in the EU (Netherlands) by Scaleway SAS ([more
+info](https://images-www.scaleway.com/wp-content/uploads/2020/11/13093355/DPA-ONLINE-ENG.pdf)).
 
 
 ## Your data protection rights according to GDPR
@@ -75,12 +89,11 @@ rights. Every user is entitled to the following:
 
 If you make a request, I have one month to respond to you. If you would like
 to exercise any of these rights, please contact me at my e-mail:
-luca-lunofono-privacy@llucax.com.
+privacy@lunofono.app.
 
 
 ## Contact and resposible person
 
 Responsible for data processing: Leandro Lucarella
 
-Contact: luca-lunofono-privacy@llucax.com
-
+Contact: privacy@lunofono.app
